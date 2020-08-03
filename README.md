@@ -4,7 +4,7 @@ Given a non-empty binary tree, return the average value of the nodes on each lev
 
 # Example 1:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_637--Average-of-Levels-in-Binary-Tree/blob/master/image/example-1.PNG)
 
 # Note:
 
